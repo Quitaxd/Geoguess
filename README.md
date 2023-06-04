@@ -13,7 +13,7 @@
 [![Crowdin](https://badges.crowdin.net/geoguess/localized.svg)](https://translate.geoguess.games/project/geoguess)
 [![Mutation testing badge](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fbadge-api.stryker-mutator.io%2Fgithub.com%2FGeoGuess%2FGeoGuess%2Fmaster)](https://dashboard.stryker-mutator.io/reports/github.com/GeoGuess/GeoGuess/master)
 
-> Demo : https://demo.geoguess.games
+> Game : https://geoguessgame.netlify.app/
 
 Geoguess is a free and lazy geoguess game. Players compete how close the player can guess random locations in five rounds.
 You can play multiplayer with your friends up to five friends. The first player creates a room and decides the room size. Other players type the same room name as the first player created and the game will start.
@@ -39,14 +39,6 @@ This game was forked from [GeoGuess Master Web](https://github.com/spider-hand/G
 -   Custom Map (geojson)
 -   History
 -   Score
-
-## 🚀 Deploy
-
-To deploy, you can follow the guide on https://geoguess.games/guide/
-
-## 📝 Changelog
-
-You can read the [CHANGELOG](CHANGELOG.md).
 
 ## 👏 Contribution
 
